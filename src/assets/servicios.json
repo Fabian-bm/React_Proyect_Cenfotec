@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name": "Corte",
+        "value": "5000"
+    },
+    {
+        "id":2,
+        "name": "Barba",
+        "value": "2000"
+    },
+    {
+        "id":3,
+        "name": "Limpieza facial",
+        "value": "3000"
+    }
+]
