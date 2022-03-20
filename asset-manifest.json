@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Fabian-bm/React_Proyect_Cenfotec.git/static/css/main.dcf606c5.css",
-    "main.js": "/Fabian-bm/React_Proyect_Cenfotec.git/static/js/main.057f77b5.js",
-    "static/media/img8.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img8.33728c300553e8be8cde.jpg",
-    "static/media/img6.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img6.dc076efdd37283b68981.jpg",
-    "static/media/img7.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img7.f39d3fcfb27e547259c6.jpg",
-    "static/media/img4.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img4.a7382ad8a6d9a17bae3a.jpg",
-    "static/media/img1.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img1.a13bc8cee020154fe5c4.jpg",
-    "static/media/img5.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img5.cfa9aab7b022c1f14fb6.jpg",
-    "static/media/img3.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img3.70f49046c452d5d3e3be.jpg",
-    "static/media/img2.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/img2.587252f4529de8334440.jpg",
-    "static/media/logo.jpg": "/Fabian-bm/React_Proyect_Cenfotec.git/static/media/logo.e98e7eb95008aead0107.jpg",
-    "index.html": "/Fabian-bm/React_Proyect_Cenfotec.git/index.html",
-    "main.dcf606c5.css.map": "/Fabian-bm/React_Proyect_Cenfotec.git/static/css/main.dcf606c5.css.map",
-    "main.057f77b5.js.map": "/Fabian-bm/React_Proyect_Cenfotec.git/static/js/main.057f77b5.js.map"
+    "main.css": "/React_Proyect_Cenfotec/static/css/main.dcf606c5.css",
+    "main.js": "/React_Proyect_Cenfotec/static/js/main.c57572b1.js",
+    "static/media/img8.jpg": "/React_Proyect_Cenfotec/static/media/img8.33728c300553e8be8cde.jpg",
+    "static/media/img6.jpg": "/React_Proyect_Cenfotec/static/media/img6.dc076efdd37283b68981.jpg",
+    "static/media/img7.jpg": "/React_Proyect_Cenfotec/static/media/img7.f39d3fcfb27e547259c6.jpg",
+    "static/media/img4.jpg": "/React_Proyect_Cenfotec/static/media/img4.a7382ad8a6d9a17bae3a.jpg",
+    "static/media/img1.jpg": "/React_Proyect_Cenfotec/static/media/img1.a13bc8cee020154fe5c4.jpg",
+    "static/media/img5.jpg": "/React_Proyect_Cenfotec/static/media/img5.cfa9aab7b022c1f14fb6.jpg",
+    "static/media/img3.jpg": "/React_Proyect_Cenfotec/static/media/img3.70f49046c452d5d3e3be.jpg",
+    "static/media/img2.jpg": "/React_Proyect_Cenfotec/static/media/img2.587252f4529de8334440.jpg",
+    "static/media/logo.jpg": "/React_Proyect_Cenfotec/static/media/logo.e98e7eb95008aead0107.jpg",
+    "index.html": "/React_Proyect_Cenfotec/index.html",
+    "main.dcf606c5.css.map": "/React_Proyect_Cenfotec/static/css/main.dcf606c5.css.map",
+    "main.c57572b1.js.map": "/React_Proyect_Cenfotec/static/js/main.c57572b1.js.map"
   },
   "entrypoints": [
     "static/css/main.dcf606c5.css",
-    "static/js/main.057f77b5.js"
+    "static/js/main.c57572b1.js"
   ]
 }
